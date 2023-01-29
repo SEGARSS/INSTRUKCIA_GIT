@@ -1,4 +1,4 @@
-![Alt text](git.jpg)
+![Картинка git](git.jpg)
 *Перед прочтение нужна программа, - нажмите [Скачать](https://git-scm.com/download/win)*
 
 ## Инструкция по работе с git
